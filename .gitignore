@@ -3,4 +3,5 @@
 *.avi
 *.pt
 *.png
+__pycache__
 MLenv
